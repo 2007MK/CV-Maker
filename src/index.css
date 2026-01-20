@@ -1,0 +1,8 @@
+* {
+  --app-bg: #f0f4ef;
+}
+
+body {
+  background-color: var(--app-bg);
+  padding: 8px;
+}
